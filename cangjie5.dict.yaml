@@ -10020,12 +10020,15 @@ encoder:
 顺	lllo
 褸	lllv
 师	llmb
+順	llmc
 片	llml
 片	llmn
+顺	llmo
 裶	llmy
 弗	lln
 畅	llnsh
 临	lloa
+临	lloia
 牏	llomn
 患	llp
 褙	llpb
@@ -10721,6 +10724,7 @@ encoder:
 璢	mgmlw
 珸	mgmmr
 玩	mgmmu
+玩	mgmu
 玎	mgmn
 珂	mgmnr
 珷	mgmpm
@@ -14619,6 +14623,8 @@ encoder:
 惱	pvvw
 匘	pvvw
 甸	pw
+慣	pwjbc
+惯	pwjbo
 怬	pwc	pw'c
 惈	pwd
 悃	pwd	pw'd
