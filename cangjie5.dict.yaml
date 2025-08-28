@@ -2245,6 +2245,7 @@ encoder:
 棇	dcip
 枍	dcms
 梯	dcnh
+梯	dcnlh
 柗	dcr
 梲	dcru
 棁	dcru
@@ -17966,6 +17967,7 @@ encoder:
 萜	tlbr
 虄	tlim
 蓝	tlit
+蓝	tlot
 革	tlj
 萧	tlll
 蟴	tllmi
@@ -17974,11 +17976,13 @@ encoder:
 蕢	tlmc
 荘	tlmg
 蒋	tlmi
+蒋	tlmni
 茧	tlmi
 蒉	tlmo
 苝	tlmp
 藎	tlmt
 菲	tlmy
+蒋	tlni
 燕	tlpf
 鷰	tlpf
 嬊	tlpv
@@ -47421,8 +47425,10 @@ encoder:
 𥙿	ifcor
 𢈍	ifd
 𥜳	ifddq
+被	ifde
 𥙭	ifdg
 𥘔	ifdh
+被	ifdhe
 𥘑	ifdi
 𥘯	ifdj
 𥜕	ifdll
