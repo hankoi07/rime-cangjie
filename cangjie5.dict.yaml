@@ -1959,6 +1959,8 @@ encoder:
 兺	cshp
 鉊	cshr
 盆	csht
+盆	cshbt
+盆	csbt
 弅	csht
 岔	cshu
 鑑	csit
@@ -16248,7 +16250,9 @@ encoder:
 噞	romo
 哈	romr
 啥	romr
+啥	romjr
 哬	romr
+哬	romnr
 喩	romv
 吃	ron
 喉	ronk
