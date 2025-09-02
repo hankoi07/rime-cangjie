@@ -54,7 +54,7 @@
 > 蒋  tlni
 
 蔣  tvmi
-> 蔣  tvmni
+> 蔣  tvmbi
 薅  tvmi
 > 薅  tvmmi
 药  tvmi
