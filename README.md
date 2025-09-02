@@ -65,4 +65,14 @@
 被  ldhe
 > 被  ifde
 > 被  ifdhe
+
+盆	csht
+> 盆	cshbt
+> 盆	csbt
+
+哈	romr
+啥	romr
+> 啥	romjr
+哬	romr
+> 哬	romnr
 ```
